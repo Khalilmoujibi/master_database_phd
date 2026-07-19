@@ -1,0 +1,14 @@
+# Data files -- never versioned, regenerate via scripts/
+*.parquet
+*.csv
+*.pb.gz
+data/
+envs/
+*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS/editor cruft
+.DS_Store
+*.swp

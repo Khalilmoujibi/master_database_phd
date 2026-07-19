@@ -1,0 +1,8 @@
+rdkit
+rxnmapper
+pandas
+pyarrow
+torch
+numpy
+matplotlib
+scipy
