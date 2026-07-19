@@ -11,7 +11,7 @@ This repository contains only the build pipeline (code) and documentation — no
 
 Reaction-fact master dataset for **StereoRetro** (stereochemistry-aware retrosynthesis planning), built from four public sources under one shared, validated pipeline.
 
-**2,523,137 unique reactions** — atom-mapped, role-labeled, stereo-annotated, quality-flagged. Built and fully documented as part of a PhD thesis at ISTI Laboratory, UM6P.
+**2,523,137 unique reactions** — atom-mapped, role-labeled, stereo-annotated, quality-flagged. Built and fully documented as part of a PhD thesis .
 
 ---
 
@@ -180,9 +180,8 @@ If you use this pipeline or the resulting dataset, please cite:
 ```bibtex
 @misc{moujibi2026stereoretro,
   author = {Moujibi, Khalil},
-  title  = {StereoRetro Master Dataset: A Fact-Based Reaction Corpus for Stereochemistry-Aware Retrosynthesis},
+  title  = { Master Dataset: A Fact-Based Reaction Corpus for Stereochemistry-Aware Retrosynthesis},
   year   = {2026},
-  note   = {ISTI Laboratory, Universit\'e Mohammed VI Polytechnique},
   url    = {https://github.com/<your-username>/master_database_phd}
 }
 ```
