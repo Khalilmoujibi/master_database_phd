@@ -180,9 +180,8 @@ If you use this pipeline or the resulting dataset, please cite:
 ```bibtex
 @misc{moujibi2026stereoretro,
   author = {Moujibi, Khalil},
-  title  = {StereoRetro Master Dataset: A Fact-Based Reaction Corpus for Stereochemistry-Aware Retrosynthesis},
+  title  = { Master Dataset: A Fact-Based Reaction Corpus for Stereochemistry-Aware Retrosynthesis},
   year   = {2026},
-  note   = {ISTI Laboratory, Universit\'e Mohammed VI Polytechnique},
   url    = {https://github.com/<your-username>/master_database_phd}
 }
 ```
