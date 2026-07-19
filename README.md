@@ -1,4 +1,13 @@
-# StereoRetro Master Dataset
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21435663.svg)](https://doi.org/10.5281/zenodo.21435663)
+
+## Data Availability
+
+The full master dataset (`master_v1.parquet`, 672.7 MB, 2,523,137 reactions) is archived on Zenodo under CC-BY 4.0:
+
+**DOI: [10.5281/zenodo.21435663](https://doi.org/10.5281/zenodo.21435663)**
+
+This repository contains only the build pipeline (code) and documentation — not the data file itself. See [Reproducing the master dataset](#reproducing-the-master-dataset) to regenerate it from source, or download the archived version directly from Zenodo.
+# Master Dataset
 
 Reaction-fact master dataset for **StereoRetro** (stereochemistry-aware retrosynthesis planning), built from four public sources under one shared, validated pipeline.
 
